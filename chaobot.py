@@ -3,9 +3,6 @@ import discord
 
 
 
-BOT_TOKEN = "Nzk0ODA2OTE1MDA3OTA1ODIz.GUCFee.tiicut_1te1o7NXTgl9nnt3CGiStj_esqYdR0Y"
-
-
 bot = commands.Bot(command_prefix='c-', intents=discord.Intents.all())
 
 @bot.event
